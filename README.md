@@ -5,4 +5,6 @@ This is basically just a smashing together of the learn-wgpu tutorial and clay i
 
 There is a lot of room for improvement in this code, it is very inconsistent in some places.
 
-It has only been tested on Windows 11, but everything "cross-platform"
+It has only been tested on Windows 11.
+
+The Clay dependency is set up to use a local cloned version of the repository rather than crates.io, a "nightly" build, if you will.
